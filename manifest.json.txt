@@ -1,0 +1,21 @@
+{
+  "name": "RV Cleaning Sistema",
+  "short_name": "RV Cleaning",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00B4DC",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/9HPRXXs4/RV-CLEANING.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/9HPRXXs4/RV-CLEANING.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
